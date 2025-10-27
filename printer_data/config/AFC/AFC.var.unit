@@ -6,13 +6,13 @@
             "hub": "Turtle_1",
             "extruder": "extruder",
             "buffer": "Turtle_1",
-            "buffer_status": "Trailing",
+            "buffer_status": "Advancing",
             "lane": 1,
             "map": "T0",
             "load": true,
             "prep": true,
             "tool_loaded": true,
-            "loaded_to_hub": true,
+            "loaded_to_hub": false,
             "material": "PLA",
             "density": 1.24,
             "diameter": 1.75,
@@ -22,9 +22,9 @@
             "weight": 814.0597838974445,
             "extruder_temp": 210,
             "runout_lane": null,
-            "filament_status": "In Tool",
-            "filament_status_led": "#0000ff",
-            "status": "Tool Unloading",
+            "filament_status": "Ready",
+            "filament_status_led": "#00cc00",
+            "status": "Loaded",
             "dist_hub": 170.0
         },
         "lane2": {
@@ -33,7 +33,7 @@
             "hub": "Turtle_1",
             "extruder": "extruder",
             "buffer": "Turtle_1",
-            "buffer_status": "Trailing",
+            "buffer_status": "Advancing",
             "lane": 2,
             "map": "T1",
             "load": true,
@@ -60,7 +60,7 @@
             "hub": "Turtle_1",
             "extruder": "extruder",
             "buffer": "Turtle_1",
-            "buffer_status": "Trailing",
+            "buffer_status": "Advancing",
             "lane": 3,
             "map": "T2",
             "load": true,
@@ -87,7 +87,7 @@
             "hub": "Turtle_1",
             "extruder": "extruder",
             "buffer": "Turtle_1",
-            "buffer_status": "Trailing",
+            "buffer_status": "Advancing",
             "lane": 4,
             "map": "T3",
             "load": true,
@@ -116,7 +116,7 @@
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": "lane1"
+                "lane_loaded": ""
             }
         },
         "bypass": {
