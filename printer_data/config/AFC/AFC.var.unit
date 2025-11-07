@@ -9,7 +9,7 @@
             "buffer_status": "Advancing",
             "lane": 1,
             "map": "T0",
-            "load": true,
+            "load": false,
             "prep": true,
             "tool_loaded": true,
             "loaded_to_hub": false,
@@ -22,8 +22,8 @@
             "weight": 268.08616401557754,
             "extruder_temp": 210,
             "runout_lane": null,
-            "filament_status": "Ready",
-            "filament_status_led": "#00cc00",
+            "filament_status": "Prep",
+            "filament_status_led": "#ffffff",
             "status": "Loaded",
             "dist_hub": 170.0,
             "td1_data": {}
@@ -52,7 +52,7 @@
             "runout_lane": null,
             "filament_status": "In Tool",
             "filament_status_led": "#0000ff",
-            "status": "Tool Unloading",
+            "status": "Error",
             "dist_hub": 110.0,
             "td1_data": {}
         },
