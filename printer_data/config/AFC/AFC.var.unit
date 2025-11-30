@@ -19,12 +19,12 @@
             "empty_spool_weight": 140.0,
             "spool_id": 7,
             "color": "#1c1c1c",
-            "weight": 262.49639994281995,
+            "weight": 253.51725592293874,
             "extruder_temp": 210,
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded",
+            "status": "None",
             "dist_hub": 170.0,
             "td1_data": {}
         },
@@ -67,7 +67,7 @@
             "map": "T2",
             "load": true,
             "prep": true,
-            "tool_loaded": true,
+            "tool_loaded": false,
             "loaded_to_hub": true,
             "material": "PLA",
             "density": 1.24,
@@ -78,9 +78,9 @@
             "weight": 894.7475899019825,
             "extruder_temp": 210,
             "runout_lane": null,
-            "filament_status": "In Tool",
-            "filament_status_led": "#0000ff",
-            "status": "Tooled",
+            "filament_status": "Ready",
+            "filament_status_led": "#00cc00",
+            "status": "None",
             "dist_hub": 110.0,
             "td1_data": {}
         },
@@ -103,24 +103,24 @@
             "empty_spool_weight": 200.0,
             "spool_id": 9,
             "color": "#838383",
-            "weight": 872.2663352462775,
+            "weight": 871.372811175832,
             "extruder_temp": 220,
             "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded",
+            "status": "None",
             "dist_hub": 170.0,
             "td1_data": {}
         }
     },
     "system": {
-        "current_load": "lane3",
+        "current_load": null,
         "num_units": 1,
         "num_lanes": 4,
         "num_extruders": 1,
         "extruders": {
             "extruder": {
-                "lane_loaded": "lane3"
+                "lane_loaded": ""
             }
         },
         "bypass": {
