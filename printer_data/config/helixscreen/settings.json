@@ -1,7 +1,7 @@
 {
   "active_printer_id": "default",
   "brightness": 100,
-  "config_version": 18,
+  "config_version": 19,
   "dark_mode": true,
   "display": {
     "bed_mesh_render_mode": 0,
@@ -9,6 +9,7 @@
     "dim_sec": 0,
     "drm_device": "",
     "gcode_render_mode": 0,
+    "gpu_3d_blocked": false,
     "screensaver_type": 0,
     "sleep_sec": 0
   },
