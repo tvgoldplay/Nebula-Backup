@@ -52,11 +52,31 @@
       {
         "phases": {
           "7": 109,
+          "8": 65
+        },
+        "temp_bucket": 1,
+        "timestamp": 1788297879,
+        "total": 333,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 109,
           "8": 54
         },
         "temp_bucket": 2,
         "timestamp": 1788026368,
         "total": 229,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 113,
+          "8": 54
+        },
+        "temp_bucket": 2,
+        "timestamp": 1788299540,
+        "total": 305,
         "window": 1
       }
     ]
@@ -476,6 +496,7 @@
           ]
         }
       },
+      "printer_image": "shipped:zerog-nebula-370",
       "printer_name": "Nebula",
       "temp_sensors": {
         "bed": "heater_bed",
@@ -493,8 +514,11 @@
   },
   "thermal": {
     "rates": {
+      "extruder": {
+        "heat_rate": 1.2153927087783813
+      },
       "heater_bed": {
-        "heat_rate": 1.4328972101211548
+        "heat_rate": 1.803560733795166
       }
     }
   },
