@@ -155,6 +155,15 @@
         "timestamp": 1788549474,
         "total": 254,
         "window": 1
+      },
+      {
+        "phases": {
+          "8": 128
+        },
+        "temp_bucket": 2,
+        "timestamp": 1788552488,
+        "total": 228,
+        "window": 1
       }
     ]
   },
@@ -595,7 +604,7 @@
         "heat_rate": 0.8727726340293884
       },
       "heater_bed": {
-        "heat_rate": 1.986952304840088
+        "heat_rate": 2.4324276447296143
       }
     }
   },
