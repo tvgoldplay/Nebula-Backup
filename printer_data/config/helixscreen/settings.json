@@ -101,24 +101,6 @@
       },
       {
         "phases": {
-          "8": 127
-        },
-        "temp_bucket": 2,
-        "timestamp": 1788556369,
-        "total": 280,
-        "window": 1
-      },
-      {
-        "phases": {
-          "8": 130
-        },
-        "temp_bucket": 2,
-        "timestamp": 1788556646,
-        "total": 176,
-        "window": 1
-      },
-      {
-        "phases": {
           "7": 100,
           "8": 42
         },
@@ -195,6 +177,25 @@
         "timestamp": 1789488743,
         "total": 551,
         "window": 1
+      },
+      {
+        "phases": {
+          "7": 113,
+          "8": 42
+        },
+        "temp_bucket": 2,
+        "timestamp": 1789497552,
+        "total": 321,
+        "window": 1
+      },
+      {
+        "phases": {
+          "8": 206
+        },
+        "temp_bucket": 2,
+        "timestamp": 1789499567,
+        "total": 341,
+        "window": 1
       }
     ]
   },
@@ -262,7 +263,7 @@
             "tmc5160 stepper_x",
             "tmc5160 stepper_y"
           ],
-          "timestamp": "2026-09-15T17:43:01Z"
+          "timestamp": "2026-09-15T19:37:08Z"
         },
         "optional": []
       },
@@ -635,7 +636,7 @@
         "heat_rate": 7.468389511108398
       },
       "heater_bed": {
-        "heat_rate": 2.146230936050415
+        "heat_rate": 2.9030778408050537
       }
     }
   },
