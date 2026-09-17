@@ -101,16 +101,6 @@
       },
       {
         "phases": {
-          "7": 102,
-          "8": 42
-        },
-        "temp_bucket": 2,
-        "timestamp": 1788822933,
-        "total": 205,
-        "window": 1
-      },
-      {
-        "phases": {
           "7": 125,
           "8": 54
         },
@@ -195,6 +185,16 @@
         "timestamp": 1789605135,
         "total": 388,
         "window": 1
+      },
+      {
+        "phases": {
+          "7": 139,
+          "8": 43
+        },
+        "temp_bucket": 2,
+        "timestamp": 1789664730,
+        "total": 296,
+        "window": 1
       }
     ]
   },
@@ -262,7 +262,7 @@
             "tmc5160 stepper_x",
             "tmc5160 stepper_y"
           ],
-          "timestamp": "2026-09-17T06:38:01Z"
+          "timestamp": "2026-09-17T18:47:14Z"
         },
         "optional": []
       },
@@ -632,7 +632,7 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 4.6646528244018555
+        "heat_rate": 7.1911725997924805
       },
       "heater_bed": {
         "heat_rate": 3.140253782272339
