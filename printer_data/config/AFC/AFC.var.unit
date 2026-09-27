@@ -27,7 +27,7 @@
             "runout_lane": "lane2",
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
-            "status": "Loaded",
+            "status": "Ejecting",
             "dist_hub": 160.0,
             "td1_data": {},
             "endstops": "load,hub,tool_start,buffer_advance,buffer_trailing,lane1_prep,lane1_load"
@@ -53,7 +53,7 @@
             "remember_spool": false,
             "spool_id": 8,
             "color": "#AD4E38",
-            "weight": 1000.0,
+            "weight": 735.6022820434874,
             "extruder_temp": 220,
             "bed_temp": 60,
             "runout_lane": null,
