@@ -49,6 +49,56 @@
     "entries": [
       {
         "phases": {
+          "7": 107,
+          "8": 42
+        },
+        "temp_bucket": 1,
+        "timestamp": 1791308554,
+        "total": 587,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 103,
+          "8": 42
+        },
+        "temp_bucket": 1,
+        "timestamp": 1791370736,
+        "total": 664,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 105,
+          "8": 42
+        },
+        "temp_bucket": 1,
+        "timestamp": 1791420679,
+        "total": 674,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 89,
+          "8": 42
+        },
+        "temp_bucket": 1,
+        "timestamp": 1792084041,
+        "total": 276,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 193,
+          "8": 42
+        },
+        "temp_bucket": 1,
+        "timestamp": 1792317636,
+        "total": 704,
+        "window": 1
+      },
+      {
+        "phases": {
           "7": 130,
           "8": 65
         },
@@ -139,62 +189,12 @@
       },
       {
         "phases": {
-          "7": 118,
+          "7": 99,
           "8": 42
         },
-        "temp_bucket": 1,
-        "timestamp": 1791258397,
-        "total": 627,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 107,
-          "8": 42
-        },
-        "temp_bucket": 1,
-        "timestamp": 1791308554,
-        "total": 587,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 103,
-          "8": 42
-        },
-        "temp_bucket": 1,
-        "timestamp": 1791370736,
-        "total": 664,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 105,
-          "8": 42
-        },
-        "temp_bucket": 1,
-        "timestamp": 1791420679,
-        "total": 674,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 89,
-          "8": 42
-        },
-        "temp_bucket": 1,
-        "timestamp": 1792084041,
-        "total": 276,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 193,
-          "8": 42
-        },
-        "temp_bucket": 1,
-        "timestamp": 1792317636,
-        "total": 704,
+        "temp_bucket": 2,
+        "timestamp": 1792318831,
+        "total": 536,
         "window": 1
       }
     ]
@@ -263,7 +263,7 @@
             "tmc5160 stepper_y",
             "temperature_sensor BoxedTurtle"
           ],
-          "timestamp": "2026-10-18T10:10:44Z"
+          "timestamp": "2026-10-18T16:59:02Z"
         },
         "optional": []
       },
@@ -631,10 +631,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.5058831572532654
+        "heat_rate": 0.42915433645248413
       },
       "heater_bed": {
-        "heat_rate": 1.849466323852539
+        "heat_rate": 2.88053297996521
       }
     }
   },
