@@ -263,7 +263,7 @@
             "tmc5160 stepper_y",
             "temperature_sensor BoxedTurtle"
           ],
-          "timestamp": "2026-10-26T15:00:35Z"
+          "timestamp": "2026-10-26T16:08:28Z"
         },
         "optional": []
       },
@@ -634,7 +634,7 @@
         "heat_rate": 0.39836275577545166
       },
       "heater_bed": {
-        "heat_rate": 1.4901173114776611
+        "heat_rate": 2.060965061187744
       }
     }
   },
