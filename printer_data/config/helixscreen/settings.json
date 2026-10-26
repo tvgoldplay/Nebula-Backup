@@ -49,96 +49,6 @@
     "entries": [
       {
         "phases": {
-          "7": 102,
-          "8": 43
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792348967,
-        "total": 1100,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 93,
-          "8": 42
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792416189,
-        "total": 248,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 101,
-          "8": 54
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792418216,
-        "total": 1278,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 141,
-          "8": 74
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792425750,
-        "total": 1794,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 102,
-          "8": 43
-        },
-        "temp_bucket": 2,
-        "timestamp": 1792427710,
-        "total": 891,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 105,
-          "8": 42
-        },
-        "temp_bucket": 1,
-        "timestamp": 1791420679,
-        "total": 674,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 89,
-          "8": 42
-        },
-        "temp_bucket": 1,
-        "timestamp": 1792084041,
-        "total": 276,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 193,
-          "8": 42
-        },
-        "temp_bucket": 1,
-        "timestamp": 1792317636,
-        "total": 704,
-        "window": 1
-      },
-      {
-        "phases": {
-          "7": 100,
-          "8": 42
-        },
-        "temp_bucket": 1,
-        "timestamp": 1792423026,
-        "total": 570,
-        "window": 1
-      },
-      {
-        "phases": {
           "7": 136,
           "8": 42
         },
@@ -195,6 +105,96 @@
         "temp_bucket": 1,
         "timestamp": 1792785706,
         "total": 588,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 102,
+          "8": 43
+        },
+        "temp_bucket": 2,
+        "timestamp": 1792348967,
+        "total": 1100,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 93,
+          "8": 42
+        },
+        "temp_bucket": 2,
+        "timestamp": 1792416189,
+        "total": 248,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 101,
+          "8": 54
+        },
+        "temp_bucket": 2,
+        "timestamp": 1792418216,
+        "total": 1278,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 141,
+          "8": 74
+        },
+        "temp_bucket": 2,
+        "timestamp": 1792425750,
+        "total": 1794,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 102,
+          "8": 43
+        },
+        "temp_bucket": 2,
+        "timestamp": 1792427710,
+        "total": 891,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 113,
+          "8": 42
+        },
+        "temp_bucket": 2,
+        "timestamp": 1793031819,
+        "total": 890,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 117,
+          "8": 54
+        },
+        "temp_bucket": 2,
+        "timestamp": 1793032525,
+        "total": 264,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 108,
+          "8": 51
+        },
+        "temp_bucket": 2,
+        "timestamp": 1793033362,
+        "total": 230,
+        "window": 1
+      },
+      {
+        "phases": {
+          "7": 113,
+          "8": 77
+        },
+        "temp_bucket": 2,
+        "timestamp": 1793033958,
+        "total": 336,
         "window": 1
       }
     ]
@@ -631,10 +631,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.39836275577545166
+        "heat_rate": 0.6252588629722595
       },
       "heater_bed": {
-        "heat_rate": 2.060965061187744
+        "heat_rate": 2.021622657775879
       }
     }
   },
