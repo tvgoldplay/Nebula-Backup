@@ -21,7 +21,7 @@
             "remember_spool": false,
             "spool_id": 1,
             "color": "#FFFFFF",
-            "weight": 872.5611934780912,
+            "weight": 872.2280382225522,
             "extruder_temp": 220,
             "bed_temp": 60,
             "runout_lane": "lane2",
