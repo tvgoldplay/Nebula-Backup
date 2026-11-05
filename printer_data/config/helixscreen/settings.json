@@ -49,16 +49,6 @@
     "entries": [
       {
         "phases": {
-          "7": 100,
-          "8": 43
-        },
-        "temp_bucket": 2,
-        "timestamp": 1793641024,
-        "total": 570,
-        "window": 1
-      },
-      {
-        "phases": {
           "7": 97,
           "8": 42
         },
@@ -196,6 +186,16 @@
         "timestamp": 1793829699,
         "total": 736,
         "window": 1
+      },
+      {
+        "phases": {
+          "7": 94,
+          "8": 42
+        },
+        "temp_bucket": 1,
+        "timestamp": 1793884296,
+        "total": 650,
+        "window": 1
       }
     ]
   },
@@ -263,7 +263,7 @@
             "tmc5160 stepper_y",
             "temperature_sensor BoxedTurtle"
           ],
-          "timestamp": "2026-11-05T01:01:57Z"
+          "timestamp": "2026-11-05T13:12:53Z"
         },
         "optional": []
       },
@@ -631,10 +631,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.3332858383655548
+        "heat_rate": 0.34546107053756714
       },
       "heater_bed": {
-        "heat_rate": 1.475150227546692
+        "heat_rate": 1.3960378170013428
       }
     }
   },
