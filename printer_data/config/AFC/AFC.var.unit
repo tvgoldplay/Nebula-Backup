@@ -24,7 +24,7 @@
             "weight": 911.2834926067095,
             "extruder_temp": 220,
             "bed_temp": 60,
-            "runout_lane": "lane2",
+            "runout_lane": null,
             "filament_status": "Ready",
             "filament_status_led": "#00cc00",
             "status": "Loaded",
