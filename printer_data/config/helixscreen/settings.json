@@ -183,13 +183,27 @@
         "timestamp": 1794928175,
         "total": 598,
         "window": 1
+      },
+      {
+        "heating": 138,
+        "phases": {
+          "BED_MESH": 18,
+          "CLEANING": 53,
+          "HOMING": 31,
+          "Z_TILT": 14
+        },
+        "temp_bucket": 1,
+        "timestamp": 1795544523,
+        "total": 614,
+        "window": 1
       }
     ]
   },
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"obj_2_MINIMALISTIC LINE ART_STAND_PLA_8m10s.gcode\",\"job_id\":\"000013\",\"object_height\":8.0,\"start_time\":1794927577.0784147}"
+        "last_occupied": "{\"filename\":\"obj_1_Little Krishna.3mf_PLA_2h30m.gcode\",\"job_id\":\"000014\",\"object_height\":99.4,\"start_time\":1795543909.5160534}",
+        "outlines": "{\"filename\":\"obj_1_Little Krishna.3mf_PLA_2h30m.gcode\",\"objects\":[[[140.4,228.8],[141.7,221.6],[143.2,217.7],[166.5,169.9],[176.8,155.0],[177.4,154.3],[178.1,154.0],[199.7,147.0],[200.7,147.4],[225.9,165.9],[228.0,169.0],[229.5,171.7],[229.6,175.7],[229.1,178.7],[228.5,180.7],[227.5,182.9],[218.0,202.5],[214.7,208.1],[209.2,212.0],[144.3,229.4],[141.5,230.0],[140.4,228.8]]]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
@@ -298,20 +312,20 @@
           "filter": {
             "interval_h": 200,
             "notified": false,
-            "used_h": 0.0
+            "used_h": 2.5561111111114165
           },
           "nozzle": {
             "interval_h": 500,
             "notified": false,
-            "used_h": 0.0
+            "used_h": 2.5561111111114165
           },
           "rails": {
             "interval_h": 300,
             "notified": false,
-            "used_h": 0.0
+            "used_h": 2.5561111111114165
           }
         },
-        "total_h": 0.0
+        "total_h": 2.5561111111114165
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
@@ -430,10 +444,10 @@
   "thermal": {
     "rates": {
       "extruder": {
-        "heat_rate": 0.3739662170410156
+        "heat_rate": 0.386137992143631
       },
       "heater_bed": {
-        "heat_rate": 1.5192558765411377
+        "heat_rate": 1.5139580965042114
       }
     }
   },
