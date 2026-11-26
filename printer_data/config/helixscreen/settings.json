@@ -271,11 +271,11 @@
             "temperature_sensor chamber",
             "temperature_sensor U2C",
             "temperature_sensor beacon_coil",
+            "temperature_sensor BoxedTurtle",
             "tmc5160 stepper_x",
-            "tmc5160 stepper_y",
-            "temperature_sensor BoxedTurtle"
+            "tmc5160 stepper_y"
           ],
-          "timestamp": "2026-11-26T12:34:17Z"
+          "timestamp": "2026-11-26T12:35:47Z"
         },
         "optional": []
       },
