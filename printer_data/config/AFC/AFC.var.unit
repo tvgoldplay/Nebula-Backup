@@ -88,7 +88,7 @@
             "weight": 588.35801142994,
             "extruder_temp": 220,
             "bed_temp": 60,
-            "runout_lane": null,
+            "runout_lane": "lane4",
             "filament_status": "In Tool",
             "filament_status_led": "#0000ff",
             "status": "Tooled",
