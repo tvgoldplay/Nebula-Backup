@@ -235,7 +235,7 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"spiderman-v2_PLA_18h39m.gcode\",\"job_id\":\"00001C\",\"object_height\":245.8,\"start_time\":1795796324.2282126}",
+        "last_occupied": "{\"filename\":\"spiderman-v2_PLA_18h39m.gcode\",\"job_id\":\"00001D\",\"object_height\":245.8,\"start_time\":1795797055.0835955}",
         "outlines": "{\"filename\":\"spiderman-v2_PLA_18h39m.gcode\",\"objects\":[[[107.7,92.9],[262.3,92.9],[262.3,284.1],[107.7,284.1]]]}"
       },
       "default_macros": {
@@ -345,20 +345,20 @@
           "filter": {
             "interval_h": 200,
             "notified": false,
-            "used_h": 5.919444444445276
+            "used_h": 9.549444444440889
           },
           "nozzle": {
             "interval_h": 500,
             "notified": false,
-            "used_h": 5.919444444445276
+            "used_h": 9.549444444440889
           },
           "rails": {
             "interval_h": 300,
             "notified": false,
-            "used_h": 5.919444444445276
+            "used_h": 9.549444444440889
           }
         },
-        "total_h": 5.919444444445276
+        "total_h": 9.549444444440889
       },
       "moonraker_api_key": false,
       "moonraker_host": "127.0.0.1",
