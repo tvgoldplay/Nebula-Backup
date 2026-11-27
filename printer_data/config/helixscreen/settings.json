@@ -229,8 +229,8 @@
   "printers": {
     "default": {
       "bed_occupancy": {
-        "last_occupied": "{\"filename\":\"firstlayer_100x100mm_PLA_3m25s.gcode\",\"job_id\":\"00001A\",\"object_height\":0.2,\"start_time\":1795795501.2812397}",
-        "outlines": "{\"filename\":\"firstlayer_100x100mm_PLA_3m25s.gcode\",\"objects\":[[[135.0,143.5],[135.3,141.8],[136.2,140.3],[136.8,139.7],[138.3,138.8],[140.0,138.5],[230.0,138.5],[231.7,138.8],[233.2,139.7],[233.8,140.3],[234.7,141.8],[235.0,143.5],[235.0,233.5],[234.7,235.2],[233.8,236.7],[233.2,237.3],[231.7,238.2],[230.0,238.5],[140.0,238.5],[138.3,238.2],[136.8,237.3],[136.2,236.7],[135.3,235.2],[135.0,233.5],[135.0,143.5]]]}"
+        "last_occupied": "{\"filename\":\"spiderman-v2_PLA_18h39m.gcode\",\"job_id\":\"00001B\",\"object_height\":245.8,\"start_time\":1795796299.941932}",
+        "outlines": "{\"filename\":\"spiderman-v2_PLA_18h39m.gcode\",\"objects\":[[[107.7,92.9],[262.3,92.9],[262.3,284.1],[107.7,284.1]]]}"
       },
       "default_macros": {
         "cooldown": "SET_HEATER_TEMPERATURE HEATER=extruder TARGET=0\nSET_HEATER_TEMPERATURE HEATER=heater_bed TARGET=0",
